@@ -10,6 +10,14 @@
   - firstname: ["Xiaoyun"]
     url: https://sites.google.com/view/xiaoyunqiu/home
 
+"chen":
+  - firstname: ["Yurong"]
+    url: https://ruyc.github.io/
+
+"jordan":
+  - firstname: ["Michael I.", "Michael I"]
+    url: https://people.eecs.berkeley.edu/~jordan/
+
 "xu":
   - firstname: ["Haifeng"]
     url: https://www.haifeng-xu.com/
@@ -20,4 +28,4 @@
 
 "yu":
   - firstname: ["Yang"]
-    url: https://www.yangyuuva.com/
+    url: https://sites.google.com/view/yangyuecon
