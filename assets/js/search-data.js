@@ -48,6 +48,9 @@ ninja.data = [{
       },{id: "news-starting-fall-2025-i-will-join-northwestern-university-s-computer-science-theory-group-as-a-phd-student",
           title: 'Starting Fall 2025, I will join Northwestern University’s Computer Science Theory Group as...',
           description: "",
+          section: "News",},{id: "news-our-paper-the-complexity-of-tullock-contests-is-accepted-by-ec-2026",
+          title: 'Our paper The Complexity of Tullock Contests is accepted by EC 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
