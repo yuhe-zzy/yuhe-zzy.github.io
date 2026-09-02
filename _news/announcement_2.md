@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *The Complexity of Tullock Contests* is accepted by [EC 2026](https://ec26.sigecom.org/).
+Our paper _The Complexity of Tullock Contests_ is accepted by [EC 2026](https://ec26.sigecom.org/).

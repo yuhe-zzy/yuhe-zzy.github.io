@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Check, Please: Verifiably Fair Clustering* was accepted to the [*3rd Workshop on Social Choice and Learning Algorithms*](https://sites.google.com/view/scala26) at IJCAI 2026.
+Our paper _Check, Please: Verifiably Fair Clustering_ was accepted to the [_3rd Workshop on Social Choice and Learning Algorithms_](https://sites.google.com/view/scala26) at IJCAI 2026.
