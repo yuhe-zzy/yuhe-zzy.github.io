@@ -60,6 +60,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-attend-forc-at-harvard-from-june-3-5-and-esif-at-cornell-from-june-16-17",
           title: 'I will attend FORC at Harvard from June 3-5 and ESIF at Cornell...',
           description: "",
+          section: "News",},{id: "news-our-paper-check-please-verifiably-fair-clustering-was-accepted-to-the-3rd-workshop-on-social-choice-and-learning-algorithms-at-ijcai-2026",
+          title: 'Our paper Check, Please: Verifiably Fair Clustering was accepted to the 3rd Workshop...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
